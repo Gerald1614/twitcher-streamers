@@ -1,0 +1,25 @@
+Body{
+  background-color: #041C40;
+  font-family:verdana;
+  font-size: 200%;
+}
+.jumbotron{
+  text-align: center;
+  background: linear-gradient(to right bottom, #fff, #041C40);
+}
+.table>tbody>tr{
+  border-left: thick solid green;
+  border-right: thick solid green;
+
+}
+.table>tbody>tr>td{
+  vertical-align: middle;
+  text-align: center;
+  font-variant: small-caps;
+}
+
+tr:hover{
+opacity: 0.8;
+font-weight: bold;
+
+}
